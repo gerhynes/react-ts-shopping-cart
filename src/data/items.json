@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "name": "Book",
+    "name": "The Library of Babel",
     "price": 10.99,
     "imgUrl": "/imgs/book.jpg"
   },
   {
     "id": 2,
-    "name": "Computer",
-    "price": 1199,
+    "name": "Minimalism",
+    "price": 11.89,
     "imgUrl": "/imgs/computer.jpg"
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.05,
+    "name": "Banana Republic",
+    "price": 16.55,
     "imgUrl": "/imgs/banana.jpg"
   },
   {
     "id": 4,
-    "name": "Car",
-    "price": 14000,
+    "name": "Old Yellow",
+    "price": 14.99,
     "imgUrl": "/imgs/car.jpg"
   }
 ]
